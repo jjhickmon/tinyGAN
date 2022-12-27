@@ -18,7 +18,7 @@ def visualize(grid):
 pygame.init()
 screen = pygame.display.set_mode((400, 400))
 
-# np.random.seed(42)
+# np.random.seed(1)
 learning_rate = 0.01
 epochs = 1000
 generator = Generator(learning_rate)
