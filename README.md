@@ -1,6 +1,6 @@
 # tinyGAN
 
-A demo project to create a simple Generative Adversarial Network.
+A demo project to test my understanding of Generative Networks by creating a simple Generative Adversarial Network. This project does not use any prewritten Deep Learning libraries.
 
 The goal is to have the GAN produce a checkered pattern, with the top left and bottom right squares white and the top right and bottom left squares black.
 
